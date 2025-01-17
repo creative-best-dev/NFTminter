@@ -37,7 +37,11 @@ const Footer = () => {
                 </div>
               </a>
               <a
+<<<<<<< HEAD
                 href="https://discord.gg/polygon"
+=======
+                href="https://discord.gg/ZnakscDVGe"
+>>>>>>> 5773b18 (add: discord invite link)
                 target="_blank"
                 rel="noreferrer"
               >
